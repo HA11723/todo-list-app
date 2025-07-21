@@ -53,6 +53,3 @@ A simple and modern Todo List application built with React. Easily add, edit, co
   - `app.jsx` - Main app logic
   - `app.css` - App styles
 
-## License
-
-This project is open source and free to use.
