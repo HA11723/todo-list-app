@@ -24,7 +24,7 @@ A simple and modern Todo List application built with React. Easily add, edit, co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/HA11723/todo-list-app.git
    cd todo-list-app
    ```
 2. Install dependencies:
